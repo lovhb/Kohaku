@@ -7,7 +7,7 @@ client.db = require("quick.db");
 client.commands = new Discord.Collection();
 client.cooldown = new Discord.Collection();
 client.config = {
-    TOKEN: "Nzk1MzY3MjI5MTQyMDczMzc0.X_IVdA.LImfvaVR-uqltYyJwmwqT2mFw5Q",
+    TOKEN: "TOKEN",
     prefix: "++",
     cooldown: 15000
 };
